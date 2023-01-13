@@ -1,0 +1,7 @@
+{
+  "name": "[Thực hành] Xây dựng tính năng form đăng ký thành viên",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
